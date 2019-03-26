@@ -15,5 +15,6 @@ int main()
 	printf("\n");
 	delet_emp();
 	print_emp();
+	printf("\n/-------------made-by--Manthan-Lunagariya-----------/")
 }
 
