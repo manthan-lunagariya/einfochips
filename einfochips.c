@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
-#include"DS.h"
+#include"einfochips.h"
 
 
 
@@ -10,11 +10,7 @@ int main()
 	add_emp();
 	add_emp();
 	add_emp();
-	printf("\n");
-	print_emp();
-	printf("\n");
-	delet_emp();
-	print_emp();
-	printf("\n/-------------made-by--Manthan-Lunagariya-----------/")
+	emp_search();
+	printf("\n/-------------made-by--Manthan-Lunagariya-----------/");
 }
 
